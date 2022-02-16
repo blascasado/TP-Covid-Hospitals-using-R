@@ -1,5 +1,5 @@
 # TP-Covid-Hospitals-using-R
-Final Project of Operations Research course @UBA as part of my Engineering degree
+Final Project of Operations Research 1 course @UBA as part of my Engineering degree
 
 You may find attached the final document (https://github.com/blascasado/TP-Covid-Hospitals-using-R/blob/main/TP%20Obligatorio%20Investigaci%C3%B3n%20Operativa%2071.pdf), the R language code used (https://github.com/blascasado/TP-Covid-Hospitals-using-R/blob/main/TP%20IO%20Amor%20-Casado-Gordon.R) and de csv. files (demanda.csv: https://github.com/blascasado/TP-Covid-Hospitals-using-R/blob/main/demanda.csv and hospitales.csv: https://github.com/blascasado/TP-Covid-Hospitals-using-R/blob/main/hospitales.csv) necessary to run it.
 
