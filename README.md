@@ -5,4 +5,4 @@ You may find attached the final document (), the R language code used () and de 
 
 The main objective of this project was to optimize the hospoitals resources as to assist the best number of patients and identify when the intensive care unit beds will be at 100% occupancy considering the forecasted demand.
 
-The SIMPLEX method learnt during the Operations Reasearch course was used to optimize this problem. The main variables was the demand of three group of patients (Regular, COVID and intense care), while the variables that conditioned the problem where #beds, #doctors and #medical_kits.
+The SIMPLEX method learnt during the Operations Reasearch course was used to optimize this problem. The problem consisted of 9 variables: three group of patients (Regular, COVID and intense care) multiplied by the 3 different hospitals. These variables were conditioned in the problem by 12 restrictions: #beds, #doctors, #medical_kits and the forecasted demand of #patients, these 4 restrictions are multiplied by the 3 group of patients mentioned before.
